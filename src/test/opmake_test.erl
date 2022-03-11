@@ -1,3 +1,5 @@
+%% opmake test
+
 -module(opmake_test).
 	-export([test/0]).
 
