@@ -1,6 +1,6 @@
 {application, opmake,
  [{description, "otp application to handle cmake utilities easier."},
-  {vsn, "0.1.0"},
+  {vsn, "1.1.0"},
   {registered, []},
   {mod, {opmake_app, []}},
   {applications,
